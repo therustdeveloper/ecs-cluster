@@ -1,7 +1,7 @@
 # Generic Variables
 aws_region        = "us-east-1"
 environment       = "dev"
-business_division = "2025"
+business_division = "cloud"
 cluster_name      = "ecslab"
 
 # VPC Variables
