@@ -1,7 +1,11 @@
 # Amazon ECS Cluster
 
-## Development Deployment
+## Development Environment
 
-In the directory `terraform/envs/dev`
+- Directory: `terraform/envs/dev`
+- AWS Profile: `ecs-cluster`
+
+## Services
 
 - network
+- ecs-cluster
